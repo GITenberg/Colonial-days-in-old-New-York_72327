@@ -1,0 +1,30 @@
+_repo: Colonial-days-in-old-New-York_72327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Morse_Earle
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72327'
+language: en
+pgterms:marc904: https://archive.org/details/b24859400/page/n9/mode/2up
+pgterms:marc905: 20230225025333earle
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Colonial days in old New York
+url: http://www.gutenberg.org/ebooks/72327
