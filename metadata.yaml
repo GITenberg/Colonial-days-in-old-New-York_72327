@@ -1,5 +1,8 @@
 _repo: Colonial-days-in-old-New-York_72327
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72327-h/images/cover.jpg
 creator:
   author:
     agent_name: Earle, Alice Morse
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2836
     wikipedia: https://en.wikipedia.org/wiki/Alice_Morse_Earle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72327#Colonial-days-in-old-New-York
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72327'
